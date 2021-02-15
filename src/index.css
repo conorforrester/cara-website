@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=B612:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cursive {
+    font-family: "B612", cursive;
+}
+
+.home-name {
+    font-size: 150px;
+}
+
+.social {
+    color: rgb(143, 245, 189);
+}
